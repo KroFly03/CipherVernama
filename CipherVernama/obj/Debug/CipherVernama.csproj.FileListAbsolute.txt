@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\CipherVernama\CipherVernama\bin\Debug\CipherVernama.exe.config
+C:\Users\Student\Desktop\CipherVernama\CipherVernama\bin\Debug\CipherVernama.exe
+C:\Users\Student\Desktop\CipherVernama\CipherVernama\bin\Debug\CipherVernama.pdb
+C:\Users\Student\Desktop\CipherVernama\CipherVernama\obj\Debug\CipherVernama.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\CipherVernama\CipherVernama\obj\Debug\CipherVernama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\Desktop\CipherVernama\CipherVernama\obj\Debug\CipherVernama.Form1.resources
+C:\Users\Student\Desktop\CipherVernama\CipherVernama\obj\Debug\CipherVernama.Properties.Resources.resources
+C:\Users\Student\Desktop\CipherVernama\CipherVernama\obj\Debug\CipherVernama.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\CipherVernama\CipherVernama\obj\Debug\CipherVernama.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\CipherVernama\CipherVernama\obj\Debug\CipherVernama.exe
+C:\Users\Student\Desktop\CipherVernama\CipherVernama\obj\Debug\CipherVernama.pdb
